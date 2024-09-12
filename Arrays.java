@@ -17,7 +17,7 @@ public class Arrays {
         for (int i=0; i<=number.length -1  ; i++ ){
             if (number[i] < numero){
              numero = number[i];
-               //git patacon 
+               //git patacon 21
             }
         }
         System.out.println("el numero menor es: " + numero);
